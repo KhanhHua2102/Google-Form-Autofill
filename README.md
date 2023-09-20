@@ -62,9 +62,9 @@ fullXpath*inputData\n
 
 ### Built With
 
-- [![Python][Python.com]][Python-url]
-- [![Selenuim][Selenium.com]][Selenium-url]
-- [![Chrome WebDriver][ChromeWebDriver.com]][ChromeWebDriver-url]
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ### Note:
 
